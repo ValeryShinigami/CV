@@ -1,0 +1,25 @@
+.name, .contact, .testing {
+  background: #424242;
+}
+
+.cartier {
+  color: #bdbdbd;
+}
+
+.job, .profil {
+  background: #00bfa5;
+}
+
+.inge {
+  color: #64ffda;
+}
+
+.contactDescription, .liste, .formationBas, .FOND {
+  background: #eeeeee;
+}
+
+.date, .list-item {
+  color: #00bfa5;
+}
+
+/*# sourceMappingURL=app.css.map */
