@@ -2,7 +2,7 @@
   background: #424242;
 }
 
-.cartier {
+.kalombo {
   color: #bdbdbd;
 }
 
@@ -20,6 +20,10 @@
 
 .date, .list-item {
   color: #00bfa5;
+}
+
+.valery, .kalombo {
+  display: none;
 }
 
 /*# sourceMappingURL=app.css.map */
